@@ -3,7 +3,11 @@ import Link from "next/link";
 const pages = [
   {
     path: "/lectures/01_motivation",
-    name: "Motivation",
+    name: "01 Motivation",
+  },
+  {
+    path: "/lectures/02_android_basics",
+    name: "02 Android Basics",
   },
 ];
 

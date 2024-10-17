@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/react-syntax-highlighter": "^15.5.13",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
+    "react-syntax-highlighter": "^15.6.1",
     "react-vega": "^7.6.0",
     "vega": "^5.30.0",
     "vega-lite": "^5.21.0"
